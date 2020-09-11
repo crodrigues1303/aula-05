@@ -1,1 +1,1 @@
-# aula-05
+Primeiro commit via comando
